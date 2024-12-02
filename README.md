@@ -39,7 +39,7 @@ The tool detects the following vulnerabilities:
 ---
 
 ## Preloaded Dorks  
-The tool includes a file named `Dorks`, which contains multiple ready-to-use dork files. These dorks have been preconfigured to target specific vulnerabilities and can be used directly to scan websites.  
+The tool includes a files Dorks , which contains multiple ready-to-use dork . These dorks have been preconfigured to target specific vulnerabilities and can be used directly to scan websites.  
 
 ---
 
