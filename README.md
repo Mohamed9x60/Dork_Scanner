@@ -74,17 +74,7 @@ The tool includes a file named `Dorks`, which contains multiple ready-to-use dor
 
 3. **View Results:**  
    Detected vulnerabilities will be displayed in a structured format, along with severity levels.  
-
----
-
-## Video Demo  
-Watch the full video tutorial for a professional walkthrough of the tool:  
-
-[**Dork Scanner Demo**](#) *(
-
-https://github.com/user-attachments/assets/ad7549f5-57dd-4936-b2c6-4d697cdc987c
-
-)*  
+  
 
 ---
 
