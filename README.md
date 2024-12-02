@@ -78,6 +78,19 @@ The tool includes a files Dorks , which contains multiple ready-to-use dork . Th
 
 ---
 
+
+## Video Demo  
+Watch the full video tutorial for a professional walkthrough of the tool:  
+
+[**Dork Scanner Demo**](#) *(
+
+https://github.com/user-attachments/assets/4ce71fa8-4036-4f00-865a-18c2f1befd74
+
+)*  
+
+---
+
+
 ## Note  
 **For Educational and Ethical Use Only:**  
 This tool is intended for use by cybersecurity professionals to secure their systems and identify potential vulnerabilities. Misuse of this tool for illegal purposes is strictly prohibited.  
